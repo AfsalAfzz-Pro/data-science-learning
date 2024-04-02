@@ -23,10 +23,11 @@ def matrix_multiplication(matrixA, matrixB):
     """
     Only for square matrices
     """
+    result = [[0 for _ in range(len(matrixA[0]))] for _ in range(len(matrixA))]
     for row in range(len(matrixA)):
         for column in range(len(matrixA[0])):
-            matrixA[row][column] *= matrixB[row][column]
-    return matrixA
+            result[row][column] = matrixA[row][column] * matrixB[row][column]
+    return result
 
 
 def find_order_of_matrix(matrix):
