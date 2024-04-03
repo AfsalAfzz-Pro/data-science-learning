@@ -17,6 +17,6 @@ This repository documents my exploration of data science and linear algebra conc
     * Code examples for matrix concepts
 
 ## Learning Sessions
-* [Session 1 Title (Date)](Link to notes/code)
+* [Session 1](https://github.com/AfsalAfzz-Pro/data-science-learning/blob/main/data-science/session_1_notes.md)
 * [Session 2 Title (Date)](Link to notes/code)
 
