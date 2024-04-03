@@ -18,5 +18,5 @@ This repository documents my exploration of data science and linear algebra conc
 
 ## Learning Sessions
 * [Session 1](https://github.com/AfsalAfzz-Pro/data-science-learning/blob/main/data-science/session_1_notes.md)
-* [Session 2 Title (Date)](Link to notes/code)
+* [Session 2](https://github.com/AfsalAfzz-Pro/data-science-learning/blob/main/data-science/session_2_notes.md)
 
