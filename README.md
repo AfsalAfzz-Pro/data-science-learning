@@ -13,10 +13,16 @@ This repository documents my exploration of data science and linear algebra conc
     * Matrix Operations
     * Dot Product
     * Eigenvalues and Eigenvectors
+* **Statistics**
+    * Descriptive Statistics
+    * Central Tendency and Variability
+    * Correlation/Covariance annd Regression
+    * Hyptothesis testing
+    * Probability distribution
+    * Optimization
 * **Python Implementation**
     * Code examples for matrix concepts
+    * code examples for statistics concepts
 
-## Learning Sessions
-* [Session 1 Title (Date)](Link to notes/code)
-* [Session 2 Title (Date)](Link to notes/code)
+
 
