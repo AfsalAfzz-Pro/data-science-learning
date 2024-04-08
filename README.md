@@ -22,7 +22,7 @@ This repository documents my exploration of data science and linear algebra conc
     * Optimization
 * **Python Implementation**
     * Code examples for matrix concepts
-    * code examples for statistics concepts
+    * Code examples for statistics concepts
 
 ## Learning Sessions
 * [Session 1](https://github.com/AfsalAfzz-Pro/data-science-learning/blob/main/data-science/session_1_notes.md)
