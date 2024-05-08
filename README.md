@@ -24,7 +24,7 @@ This repository documents my exploration of data science and linear algebra conc
     * Code examples for matrix concepts
     * Code examples for statistics concepts
 * **Pandas and Numpy**
-   *Data manipultion and data operations
+   * Data manipultion and data operations
 * **Matlplotlib**
     * Plotting Data Points with matplotlib functions
 * **Machine Learning Models**
