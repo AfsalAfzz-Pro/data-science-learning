@@ -23,6 +23,12 @@ This repository documents my exploration of data science and linear algebra conc
 * **Python Implementation**
     * Code examples for matrix concepts
     * Code examples for statistics concepts
+* **Pandas and Numpy**
+   *Data manipultion and data operations
+* **Matlplotlib**
+    * Plotting Data Points with matplotlib functions
+* **Machine Learning Models**
+   * Linear Regression
 
 ## Learning Sessions
 * [Session 1](https://github.com/AfsalAfzz-Pro/data-science-learning/blob/main/data-science/session_1_notes.md)
